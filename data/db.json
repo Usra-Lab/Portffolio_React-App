@@ -1,0 +1,37 @@
+{
+    
+        "Webprojects" :  [
+            {
+              "title": "Web Development",
+              "description": "Web Application using JEE",
+              "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?auto=webp&quality=95&crop=16:9&width=675",
+              "GithubLink":"https://github.com/"
+            }
+        ],
+  
+
+        "Mobileprojects" :  [
+         
+            {
+                "title": "Mobile Development",
+                "description": "Mobile Application using java",
+                "imgUrl": "https://www.digiinte.com/wp-content/uploads/2019/10/Mobile-App.png",
+                "GithubLink":"https://github.com/Usra-Lab/SportsClubAppMobile"
+      
+              }
+        ],
+
+
+
+        "Innovationprojects" :  [
+            {
+                "title": "Innovation",
+                "description": "Creative Application using Reactjs & Laravel",
+                "imgUrl": "https://sfmagazine.com/wp-content/uploads/IMAmo-innovation.jpg"
+              }
+        ] 
+    
+}
+
+        
+      
