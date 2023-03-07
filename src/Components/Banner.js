@@ -23,8 +23,6 @@ const Banner = () => {
                         <li>A logical, analytical and creative approach to problems</li>
                         <li>The ability to work both in a team and alone </li>
                         <li>Career motivation and a willingness to continue to further my knowledge and skills</li>
-                        <li>The ability to work both in a team and alone and to manage your own workload</li>
-                        <li>Career motivation and a willingness to continue to further your knowledge and skills</li>
                     </ul>
                     </p>
                      <Nav.Link href="#connect"><button onClick={() =>console.log('connect')} >Let's connect</button></Nav.Link>

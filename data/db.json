@@ -5,7 +5,19 @@
               "title": "Web Development",
               "description": "Web Application using JEE",
               "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?auto=webp&quality=95&crop=16:9&width=675",
-              "GithubLink":"https://github.com/"
+              "GithubLink":"https://github.com/Usra-Lab/jee_project.git"
+            },
+            {
+              "title": "Web Development",
+              "description": "Full_Stack using LARAVEL & ANGULAR",
+              "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?auto=webp&quality=95&crop=16:9&width=675",
+              "GithubLink":"https://github.com/Usra-Lab/FullStack-Laravel-Angular-.git"
+            },
+            {
+              "title": "Web Development",
+              "description": "LARAVEL API",
+              "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?auto=webp&quality=95&crop=16:9&width=675",
+              "GithubLink":"https://github.com/Usra-Lab/FullStack-Laravel-Angular-.git"
             }
         ],
   
@@ -26,8 +38,9 @@
         "Innovationprojects" :  [
             {
                 "title": "Innovation",
-                "description": "Creative Application using Reactjs & Laravel",
-                "imgUrl": "https://sfmagazine.com/wp-content/uploads/IMAmo-innovation.jpg"
+                "description": "Creative Application using  Laravel",
+                "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/1631038470-Ent-JavaProgramming.jpg?auto=webp&quality=95&crop=16:9&width=675",
+                "GithubLink":"https://github.com/Usra-Lab/usra-sJira-LaravelProject.git"
               }
         ] 
     
